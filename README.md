@@ -13,5 +13,4 @@ Deep learning model trained on the MARCO Protein Crystallization dataset.
 
 - Ongoing: Training various models on the new dataset after preprocessing it.
 
-Models used: InceptionV3, Xception
 
